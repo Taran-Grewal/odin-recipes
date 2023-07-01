@@ -1,0 +1,35 @@
+h1 {
+    color: lightgreen;
+    font: size 100px;;
+    font-weight: bold;
+    display:inline-block;
+    
+    margin-left: 620px;
+    
+    
+    
+
+
+   
+    
+    
+    
+}
+li a{
+    color:lightgreen;
+   
+   
+    font-weight: lighter;
+    display:inline-block;
+    align-content: center;
+    margin-left: 620px;
+    
+
+}
+.recipe-card{
+    background-color: black;
+    padding: 200px;
+    display:  block;
+    padding-bottom: 400px;
+}
+
