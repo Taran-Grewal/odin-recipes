@@ -1,10 +1,18 @@
-h1 {
-    color: lightgreen;
-    font: size 100px;;
+body{
+    margin: 0px;
+    
+    
+}
+    h1 {
+    color: #90ee90;
+    font-size: 80px;
     font-weight: bold;
     display:inline-block;
+    text-align: center
+   
+   
     
-    margin-left: 620px;
+   
     
     
     
@@ -15,21 +23,36 @@ h1 {
     
     
 }
+ul{
+    color: aliceblue;
+    padding: 0%;
+    width: fit-content;
+    margin: 0%;
+    margin-left: 687px;
+    
+    
+    
+
+   
+}
 li a{
-    color:lightgreen;
+    color:hsl(0, 0%, 100%);
    
    
     font-weight: lighter;
     display:inline-block;
     align-content: center;
-    margin-left: 620px;
+    
+    text-decoration: none;
+    
     
 
 }
 .recipe-card{
-    background-color: black;
+    background-color: rgb(120, 182, 199);
     padding: 200px;
     display:  block;
     padding-bottom: 400px;
+    text-align: center;
 }
 
